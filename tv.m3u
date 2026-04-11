@@ -3,7 +3,7 @@
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1776101409:KeyName=prod_linear:Signature=7ojVibjPFc8jupT0g7PAANZVuxb3gUo1Ymm0AUCANlFB_EC0048AkvkmWZ2ARDDW-qHLnpqPrK5cNoM3Hg6IDQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8
-#EXTINF:-1 tvg-logo="https //i.imgur.com/5eN9luP.png" ,  Channel I
+#EXTINF:-1 tvg-logo="https //i.imgur.com/5eN9luP.png",  Channel I
 http //10.99.99.99 8082/CHANNEL.I.HD/index.m3u8?token=582f568ecfe19450a7e3294fd8d23e701d9f4b19-eac775a95c64e27f0236958aa3a8d281-1775937280-1775926480&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https //i.imgur.com/XNmcPWE.png",  ATN BANGLA
 http //10.99.99.99 8082/ATN.BANGLA.HD/index.m3u8?token=ad532744fa2ed646995cf81b7ac2d2c3723d058c-d53d8ec90eae6cab9a2d528f3e1b6bc2-1775937281-1775926481&remote=no_check_ip
