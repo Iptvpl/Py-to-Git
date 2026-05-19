@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5eN9luP.png", Channel I
-http://10.99.99.99:8082/CHANNEL.I.HD/index.m3u8?token=775cd5935e5bb85a14738c770b23bcc9bd09adfc-bffba3703c2292142eca40fcd62494f7-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/CHANNEL.I.HD/index.m3u8?token=4ba93c7b0e48436a66c6dd88f808278bb57a4751-41f54673e3331ae248b832e4f9f8fe97-1779180884-1779170084&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XNmcPWE.png", ATN BANGLA
-http://10.99.99.99:8082/ATN.BANGLA.HD/index.m3u8?token=2084a385525525aee490cc97a4fec3c7a9c41f27-e0f76d6b7a546c3e32331ffe990101ba-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/ATN.BANGLA.HD/index.m3u8?token=15420daddd990f8845459a1a601d0162e5cd7b4a-8606e8840b9aadfceb66d64572b3586a-1779180884-1779170084&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DYrTMyz.png", ATN NEWS
-http://10.99.99.99:8082/ATN.NEWS.HD/index.m3u8?token=1f6a359a8579f270f1f67d8eb27d2e8e360159ad-8df4611a6d880744a3ff2b6dd82c3abf-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/ATN.NEWS.HD/index.m3u8?token=bc20be354a68fbd805b5de13c86106970377cc6a-80d4ac7f77d1dc6e669431fc09a45bdf-1779180884-1779170084&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oDzRpxu.png", NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 No link found
@@ -19,37 +19,37 @@ http://103.59.176.72:8083/channel_9/video.m3u8?token=123
 No link found
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qWtuECD.png", Channel S
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1779294609:KeyName=prod_linear:Signature=kFrbT8AKH_Fa4DiVX9KF8DM41-Jc8xW30LsnEiAFsfg-c7Q2_24fe6Uz22L-4fvYQYfno3oXNwBmVDBweAouDA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1779341409:KeyName=prod_linear:Signature=qGILcn5d0CQgtHbuBFdBnSQTNTR3zcbGdXlfqxMtXLLIA0K2Xr0odyddlElqAVpI2Qnb5djOX2LzdR9m55UmDQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/channel_s_tv/playlist.m3u8
 
 No link found
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a6JZEyG.png", Global TV
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1779294609:KeyName=prod_linear:Signature=kFrbT8AKH_Fa4DiVX9KF8DM41-Jc8xW30LsnEiAFsfg-c7Q2_24fe6Uz22L-4fvYQYfno3oXNwBmVDBweAouDA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1779341409:KeyName=prod_linear:Signature=qGILcn5d0CQgtHbuBFdBnSQTNTR3zcbGdXlfqxMtXLLIA0K2Xr0odyddlElqAVpI2Qnb5djOX2LzdR9m55UmDQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/global_tv/playlist.m3u8
 
 No link found
 #EXTINF:-1  tvg-logo="https://i.imgur.com/Gm9fSia.png", Nexus TV
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1779294609:KeyName=prod_linear:Signature=kFrbT8AKH_Fa4DiVX9KF8DM41-Jc8xW30LsnEiAFsfg-c7Q2_24fe6Uz22L-4fvYQYfno3oXNwBmVDBweAouDA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1779341409:KeyName=prod_linear:Signature=qGILcn5d0CQgtHbuBFdBnSQTNTR3zcbGdXlfqxMtXLLIA0K2Xr0odyddlElqAVpI2Qnb5djOX2LzdR9m55UmDQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/nexus_tv/playlist.m3u8
 
 No link found
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R5kkL2k.png", Movie Bangla
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1779294609:KeyName=prod_linear:Signature=kFrbT8AKH_Fa4DiVX9KF8DM41-Jc8xW30LsnEiAFsfg-c7Q2_24fe6Uz22L-4fvYQYfno3oXNwBmVDBweAouDA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1779341409:KeyName=prod_linear:Signature=qGILcn5d0CQgtHbuBFdBnSQTNTR3zcbGdXlfqxMtXLLIA0K2Xr0odyddlElqAVpI2Qnb5djOX2LzdR9m55UmDQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/movie_bangla/playlist.m3u8
 
 No link found
 #EXTINF:-1 tvg-logo="https://i.imgur.com/saP0oYN.png", Mohona TV
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1779294609:KeyName=prod_linear:Signature=kFrbT8AKH_Fa4DiVX9KF8DM41-Jc8xW30LsnEiAFsfg-c7Q2_24fe6Uz22L-4fvYQYfno3oXNwBmVDBweAouDA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1779341409:KeyName=prod_linear:Signature=qGILcn5d0CQgtHbuBFdBnSQTNTR3zcbGdXlfqxMtXLLIA0K2Xr0odyddlElqAVpI2Qnb5djOX2LzdR9m55UmDQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/mohona_tv/playlist.m3u8
 
 No link found
 #EXTINF:-1 tvg-logo="https://i.imgur.com/78iZXeM.png", Bangla TV
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1779294609:KeyName=prod_linear:Signature=kFrbT8AKH_Fa4DiVX9KF8DM41-Jc8xW30LsnEiAFsfg-c7Q2_24fe6Uz22L-4fvYQYfno3oXNwBmVDBweAouDA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1779341409:KeyName=prod_linear:Signature=qGILcn5d0CQgtHbuBFdBnSQTNTR3zcbGdXlfqxMtXLLIA0K2Xr0odyddlElqAVpI2Qnb5djOX2LzdR9m55UmDQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/bangla_tv/playlist.m3u8
 
 No link found
@@ -61,13 +61,13 @@ http://103.59.176.72:8083/mytv/video.m3u8?token=123
 No link found
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X50ALBL.png", Ananda TV
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1779294609:KeyName=prod_linear:Signature=kFrbT8AKH_Fa4DiVX9KF8DM41-Jc8xW30LsnEiAFsfg-c7Q2_24fe6Uz22L-4fvYQYfno3oXNwBmVDBweAouDA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1779341409:KeyName=prod_linear:Signature=qGILcn5d0CQgtHbuBFdBnSQTNTR3zcbGdXlfqxMtXLLIA0K2Xr0odyddlElqAVpI2Qnb5djOX2LzdR9m55UmDQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/anandatv_576/anandatv_576.m3u8
 
 No link found
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GgloFYX.png", BijoyTV
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1779294609:KeyName=prod_linear:Signature=kFrbT8AKH_Fa4DiVX9KF8DM41-Jc8xW30LsnEiAFsfg-c7Q2_24fe6Uz22L-4fvYQYfno3oXNwBmVDBweAouDA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1779341409:KeyName=prod_linear:Signature=qGILcn5d0CQgtHbuBFdBnSQTNTR3zcbGdXlfqxMtXLLIA0K2Xr0odyddlElqAVpI2Qnb5djOX2LzdR9m55UmDQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/bijoytv/playlist.m3u8
 
 No link found
@@ -79,7 +79,7 @@ https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
 No link found
 #EXTINF:-1  tvg-logo="https://i.imgur.com/KtKYjDv.png", Asian TV
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1779294609:KeyName=prod_linear:Signature=kFrbT8AKH_Fa4DiVX9KF8DM41-Jc8xW30LsnEiAFsfg-c7Q2_24fe6Uz22L-4fvYQYfno3oXNwBmVDBweAouDA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1779341409:KeyName=prod_linear:Signature=qGILcn5d0CQgtHbuBFdBnSQTNTR3zcbGdXlfqxMtXLLIA0K2Xr0odyddlElqAVpI2Qnb5djOX2LzdR9m55UmDQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/asian_tv/playlist.m3u8
 
 No link found
@@ -88,24 +88,24 @@ http://103.59.176.72:8083/satv/video.m3u8
 No link found
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IyR2URc.png", Desh TV
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1779294609:KeyName=prod_linear:Signature=kFrbT8AKH_Fa4DiVX9KF8DM41-Jc8xW30LsnEiAFsfg-c7Q2_24fe6Uz22L-4fvYQYfno3oXNwBmVDBweAouDA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1779341409:KeyName=prod_linear:Signature=qGILcn5d0CQgtHbuBFdBnSQTNTR3zcbGdXlfqxMtXLLIA0K2Xr0odyddlElqAVpI2Qnb5djOX2LzdR9m55UmDQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/desh_tv/playlist.m3u8
 
 
 No link found
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bF66EPV.png", MAASRANGA HD
-http://10.99.99.99:8082/MASRANGA.TV.HD/index.m3u8?token=81582f0e7eea32ed49b7492f20433c55e8ac00e5-0344866fdcfe054f27cfe3d84aa5f3d1-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/MASRANGA.TV.HD/index.m3u8?token=9e3864e179ad4694f164c924a9e9d309dc237d04-a82229818e8ff6e8afa3c84bc89a8032-1779180884-1779170084&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V1AUx96.jpeg", NAGORIK
-http://10.99.99.99:8082/NAGORIK.TV.HD/index.m3u8?token=9733b412b35a1aea044f4e7f08f5f130120b950e-85ec73e08bbb284d374262e6bd11dc66-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/NAGORIK.TV.HD/index.m3u8?token=e4f9ccae149ab6e502db3d4c52e4399d88d3b8da-d089e930073f21792dc33fdb510585d3-1779180884-1779170084&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rIwESEp.png", CHANNEL 24
-http://10.99.99.99:8082/CHANNEL.24.HD/index.m3u8?token=47706f14768c00ff29052a457d2588adeb510b98-6941e2d67524fb8a95f742db446f9fbd-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/CHANNEL.24.HD/index.m3u8?token=2ae951ccd6129defb900d1326e2b1a85609009d7-48ad2c128571215e875947e3800faa73-1779180884-1779170084&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WPjuLih.png", GTV
-http://10.99.99.99:8082/GAZI.TV.HD/index.m3u8?token=6752c2f5df4d51276b0867fc36f7e9056f6a8f56-1f22484c21e80309d6769c2b054f35a8-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/GAZI.TV.HD/index.m3u8?token=8ab5b0d51b458ef94ab3ff5e8d543c6c3a5bafdf-c38b511d634c5886be0c80f7c2fb6637-1779180884-1779170084&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QUxsHCr.png", NEWS 24
 No link found
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLFwJFQ.png", Ekhon TV
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1779294609:KeyName=prod_linear:Signature=kFrbT8AKH_Fa4DiVX9KF8DM41-Jc8xW30LsnEiAFsfg-c7Q2_24fe6Uz22L-4fvYQYfno3oXNwBmVDBweAouDA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1779341409:KeyName=prod_linear:Signature=qGILcn5d0CQgtHbuBFdBnSQTNTR3zcbGdXlfqxMtXLLIA0K2Xr0odyddlElqAVpI2Qnb5djOX2LzdR9m55UmDQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/ekhon_tv/playlist.m3u8
 
 No link found
@@ -114,138 +114,138 @@ No link found
 No link found
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FD3j3BO.png", Ekattor TV
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1779294609:KeyName=prod_linear:Signature=kFrbT8AKH_Fa4DiVX9KF8DM41-Jc8xW30LsnEiAFsfg-c7Q2_24fe6Uz22L-4fvYQYfno3oXNwBmVDBweAouDA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1779341409:KeyName=prod_linear:Signature=qGILcn5d0CQgtHbuBFdBnSQTNTR3zcbGdXlfqxMtXLLIA0K2Xr0odyddlElqAVpI2Qnb5djOX2LzdR9m55UmDQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/ekattor_tv/playlist.m3u8
 
 No link found
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GZdIyZ9.jpeg", SOMOY TV
-http://10.99.99.99:8082/SOMOY.TV.HD/index.m3u8?token=0d770a170d002b504b9226c73d66ee959f2f49e0-7e76f577c88152d967c86affa47f6c55-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/SOMOY.TV.HD/index.m3u8?token=87637f1999a7cb951cc1160ad9caa765a5820fb8-4ce6d91392011d6949f71cd168fa0385-1779180884-1779170084&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CDEnOHv.png", INDEPENDENT TV
-http://10.99.99.99:8082/INDEPENDENT.TV/index.m3u8?token=293f8bade6c9a765f6cffda885b9b37bf5b68420-ab6fbf755af2f4d1651f67710c24a833-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/INDEPENDENT.TV/index.m3u8?token=f683bbf92d553566126dbd42f46517edb68b73f0-18fd9624966ae4ef7a5120dce4bd9365-1779180884-1779170084&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RTp8pjI.png", JAMUNA TV
-http://10.99.99.99:8082/JAMUNA.TV/index.m3u8?token=f98484d0dd55fe60ac9155c8d3d35d5ea8b334b7-3fe29da6fbf847ea21805e7826ea0d18-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/JAMUNA.TV/index.m3u8?token=91e6b565c7c90c8ffddd8a33f2bbb13fbbdc03d7-28c75a03479bec4aa5d5ba9e18353ce4-1779180884-1779170084&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HDiJX39.png", ZEE BANGLA HD
-http://10.99.99.99:8082/ZEE.BANGLA.HD/index.m3u8?token=9099b6f00b90c51fa9c46c41b18e5afec6c68ba0-12b194272378bbe4aaf84a2c1d0dd6da-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/ZEE.BANGLA.HD/index.m3u8?token=deb0a2cd79e30e4609a2660334381be05d2fe6e3-d62d102ef78eda43d48f8b863d285fa6-1779180884-1779170084&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nojczpy.png", STAR JALSHA HD
-http://10.99.99.99:8082/STAR.JALSHA.HD/index.m3u8?token=ba5ebd5d863b9ba2bd86fa3b3a20698aed420e1d-261ac40f92c5322460eac43787003eb3-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/STAR.JALSHA.HD/index.m3u8?token=c73cb8ffa844a3143b4b6a0b51bbaa5d732013b7-3810625fb872a02285fd0d6ff9460d9e-1779180884-1779170084&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KpYZBBn.png", COLORS BANGLA HD
-http://10.99.99.99:8082/COLORS.BANGLA.HD/index.m3u8?token=5890fc244b3faf09bc0d4c019184c62ec849a2bc-4d181175079ea22c623f24eeaa143ba6-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/COLORS.BANGLA.HD/index.m3u8?token=e20292dacf1926e981c37bffe0dd20fa67cfb1bb-79261a3f941b0de067a54b87342eba5c-1779180884-1779170084&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CBm0Kps.png", SUN BANGLA HD
-http://10.99.99.99:8082/SUN.BANGLA.HD/index.m3u8?token=77c0b2b05347eaf275100946024a3f1b9f8cb48b-d044a9f8f93db903e90e22f6531bb3cb-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/SUN.BANGLA.HD/index.m3u8?token=c01491cc8b251de0db9d5cb527ab451d6c816df1-aca03a672cd46abb268cf2a5abb4c49f-1779180884-1779170084&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OpElh60.jpeg", SONY AAT
-http://10.99.99.99:8082/SONY.AAT/index.m3u8?token=2fb53eb82cf6c21522ae0a43ac56bb2c211a9f98-21381c88464e8e166301980c0076cf9c-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/SONY.AAT/index.m3u8?token=29f4b68e5beca6f865beceb731fb7188785c828b-a5b7397abcdef808fc8d430d24a94225-1779180884-1779170084&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U1KZLGs.png", ENTERR 10 Bangla
-http://10.99.99.99:8082/ENTER10.BANGLA/index.m3u8?token=48bd733d605f2074731297856cc65746a26ad933-53b6c446c38d7a993a1b0a9fdf3d03b9-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/ENTER10.BANGLA/index.m3u8?token=7402a9d2a01f4c3a94dcb12fbadf4ea8dd797d20-77ef9435e247f72bf0a097c79c6bd029-1779180884-1779170084&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1T1zJEA.png", Zee Bangla Sonar
-http://10.99.99.99:8082/ZEE.BANGLA.CINEMA/index.m3u8?token=a40d727a7a77b61cca6556d45801315f7370a812-55bfdd68bfa317779aae707f65a301f5-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/ZEE.BANGLA.CINEMA/index.m3u8?token=96a636a3bb57c6d951cec1fed519540793c51d8e-07c0bb32a3e7b98c1ece093088731519-1779180884-1779170084&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VVPROQO.png", COLORS BANGLA CINEMA
-http://10.99.99.99:8082/COLORS.BANGLA.CINEMA/index.m3u8?token=6910e9d3d25edc6351379d9761907baf5f737163-4394f0bf4823078fc9ab0c3a80c0a643-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/COLORS.BANGLA.CINEMA/index.m3u8?token=b3bb14c1e9b58a5cc7a62fcc8924951473783e4e-9dfba0f442fa07e6de23c5a57fc57772-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ng7sQL.png", JALSHA MOVIES HD
-http://10.99.99.99:8082/JALSHA.MOVIES.HD/index.m3u8?token=79fd370f0e6e3c280fab658da48d062affef1e8f-ea5fb51867707448e0d42dbec69337c6-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/JALSHA.MOVIES.HD/index.m3u8?token=ad716e84fe9bf5ac039c5132082144812e613265-e235ea7d66016e7b660b7d9f7b76a963-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kNF2VnT.png", Tara Bangla Cinema
 #http://103.145.48.150:90/laosat24/taratv/index.m3u8
 No link found
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IDdXyuH.png", Sangeet Bangla
 No link found
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kS0lHrM.png", DISCOVERY HD
-http://10.99.99.99:8082/DISCOVERY.HD/index.m3u8?token=60bb34b955c712330cbf4115ecaa939d5a9afed6-763d805add0119a477e4afbf00d014b0-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/DISCOVERY.HD/index.m3u8?token=ecb2fc6c668aa20f1d81be83f53846dfe2c6b6c7-d1742bfd5bce8a1ffcb7cd2c4b2af667-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kEtwcDh.png", ANIMAL PLANET HD
-http://10.99.99.99:8082/ANIMAL.PLANET.HD/index.m3u8?token=668a7a3dc078749c9b9a0fca9ef65bcf1135f1a4-bec89859919fb24503254d1fd43898cd-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/ANIMAL.PLANET.HD/index.m3u8?token=7fe7b84aa98a7d780b7d109cf4ed795c20b82dba-2038edf1ea89548c651def2578ae320b-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iw4FyLA.png", NATGEO HD
-http://10.99.99.99:8082/NATGEO.HD/index.m3u8?token=c33d46d28e75b2895d05db23eebb3b371c575327-17e87d9b2823aa8dd703bbf9ef592f53-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/NATGEO.HD/index.m3u8?token=d634af30af788ef8b274310e73e0dec5a9f82307-2f7ae4120af1b87379d3222375617929-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hvEBYCO.png", NATGEO WILD HD
-http://10.99.99.99:8082/NATGEO.WILD.HD/index.m3u8?token=de2207db3b0e75e7168de06afc8bd91032c8735d-84cbf67ee0c5d93dc17ed5b37aebd3d1-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/NATGEO.WILD.HD/index.m3u8?token=95162de5a0285b9e8f5a1cf8371e88eae3ac692b-c86f99169d5fa3ef41b633a958853c9e-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RUZJTee.png", SONY BBC EARTH HD
-http://10.99.99.99:8082/SONY.BBC.EARTH.HD/index.m3u8?token=dd65d0b017f98401165c018aa82acb24e70e5d2e-690b0b66ce9139779893871fcb32af36-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/SONY.BBC.EARTH.HD/index.m3u8?token=3da3b7b908962ebe30dc3491fed610468d7e6509-7afa8a96c24b6bedec712e18151796b8-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZ0TjX1.png", BBC EARTH HD
-http://10.99.99.99:8082/BBC.Earth.HD/index.m3u8?token=c0bf6f9c8c9ae0d52c21e332b906381efa0b0df5-1838b1e221a952df61bd8058bbb09ac5-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/BBC.Earth.HD/index.m3u8?token=66d96c822ae26dcff87a86685c9c444c95a44500-0a48bac393397a0b1c7a0cbdadaa6316-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yMM1UZw.png", Wild Earth
 https://wildearth-plex.amagi.tv/master.m3u8
 No link found
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DSwoe16.png", LOVE NATURE
-http://10.99.99.99:8082/LOVE.NATURE.HD/index.m3u8?token=cc333471134e2ba045709696cda15cf9d048205e-bdeca6b6d2e4d763d8a4d12dfee04a24-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/LOVE.NATURE.HD/index.m3u8?token=eaa74c3764e21f86f2b81d61a2ab69bc9f657969-c9b82914e37de3fcd9ffde0b16cf0422-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/obcu0T2.png", DURANTA TV
-http://10.99.99.99:8082/DURANTA.TV.HD/index.m3u8?token=799f42e38174702cb4dc07bd6a124e8f292b0a2b-ac05887be70a016aadab1c509ac2463d-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/DURANTA.TV.HD/index.m3u8?token=9065a39a93c5277b9f5abbef778b0a80d26e20ac-9c3fbae1422fa881d0fd79725f069ff3-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qpSisxe.png", CARTOON NETWORK HD+
-http://10.99.99.99:8082/CARTON.NETWORK.HD/index.m3u8?token=5c120e538369e61a4795b48eea1d05f192d91dff-fcacefd9a8779a4524bc12878f6c61b7-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/CARTON.NETWORK.HD/index.m3u8?token=e55f9f8ed53bc55bae3222959b1f8ccc39f98922-43659db1a0ad643c2a51e2c2ff7c42a3-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMRCnqL.png", Boomerang
 No link found
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r6W3nOG.png", SONY YAY
-http://10.99.99.99:8082/SONY.YAY/index.m3u8?token=c5c36247bcae4f276e25c04f376460f3a8053894-a16def73019f226b0af56eb113d150fd-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/SONY.YAY/index.m3u8?token=8eda35c98487f21c355448877320122023994ff7-8babcff60aaa506ac84cfa8a6ac37d67-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ez8T3Q7.png", HUNGAMA
-http://10.99.99.99:8082/HUNGAMA/index.m3u8?token=11ca6fb4149498e7138aa2e23b303af281a6ce2f-fb0c1cbcdbe856fef86c5601630f4e4f-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/HUNGAMA/index.m3u8?token=77d51177e7575ae258176e24ab401bc2833a6059-362f4698baeba8ec130bdf539a1fc31b-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JQhS8aT.png", SUPER HUNGAMA
-http://10.99.99.99:8082/SUPER.HUNGAMA/index.m3u8?token=a17e3313797bb8fb9e6d9f3e1c76ce44af1b7c0f-9974156bdea1f860fe1fc54db46a9914-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/SUPER.HUNGAMA/index.m3u8?token=312246f32dc05487544244896fca64e6b9f3ad77-942bc94816d9b9d08a585a1fcb59daf7-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tzYIFQ1.png", Disney Channel
 No link found
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vxNZsdu.png", NICK
-http://10.99.99.99:8082/NICK/index.m3u8?token=eaf9be90dceaf94489d49fada48aeb18c1c17c85-d99dcb89cf0aa861ea0ff825d94f85b1-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/NICK/index.m3u8?token=4867e0c25df0d8eaad69023e64a8b268eecccfd0-01f03261f1f8f60121bc7484dad4952e-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k1UGPgF.png", NICK JR.
-http://10.99.99.99:8082/NICK.JR/index.m3u8?token=49738cce349eb02d02d03e9517c6746ac7c62eda-f90824e2a547da90760ccbf1ce3836aa-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/NICK.JR/index.m3u8?token=3cf9e3edca8b299910b7126f879b6cbd311fb835-6ec471f030ae9c7e51d9dc445f1ed0b2-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2A6bkhY.png", POGO
-http://10.99.99.99:8082/POGO/index.m3u8?token=e769d1e6bad5d32826b96d46f9f146787b7daa7d-f9a6db8c0587e58546612ea16b5552d5-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/POGO/index.m3u8?token=2283ea018d215907b7578df126838b9df9f59390-164c6144292f4be7e37b735fe991ea61-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u9gDZMB.png", SONIC
-http://10.99.99.99:8082/SONIC/index.m3u8?token=db368754f488048e468437c2afbb3f32a335b8c3-00f219b1833f6d5ab9b918d786e553e3-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/SONIC/index.m3u8?token=069e5b3b74df3f806e21991689f425029500d075-9b37210a2b2468d243054e069f078716-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YUHRczq.png" , Discovery Kids
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1779294609:KeyName=prod_linear:Signature=kFrbT8AKH_Fa4DiVX9KF8DM41-Jc8xW30LsnEiAFsfg-c7Q2_24fe6Uz22L-4fvYQYfno3oXNwBmVDBweAouDA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1779341409:KeyName=prod_linear:Signature=qGILcn5d0CQgtHbuBFdBnSQTNTR3zcbGdXlfqxMtXLLIA0K2Xr0odyddlElqAVpI2Qnb5djOX2LzdR9m55UmDQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8
 No link found
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UVNYqFD.png", BAL BHARAT
-http://10.99.99.99:8082/ETV.BAL.BHARAT/index.m3u8?token=65e40e1d70a380b2f212958032914b2245a4416c-f402822f6392e5323590852a42723a7c-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/ETV.BAL.BHARAT/index.m3u8?token=91475d05d05880cb65b674c07bc83cd1321f8a4c-e694a28d797633a8c2eee39dd08a7476-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2C1pdFx.png", HISTORY TV HD
-http://10.99.99.99:8082/HISTORY.TV.18.HD/index.m3u8?token=70339a104e16daa9064b677320cc5f5657b49e3b-dcd5d51616e7f29a7261d317a90bad04-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/HISTORY.TV.18.HD/index.m3u8?token=5e596350969ea5132ae1f4e9cb1fab02be354dda-54de0b6d9ed8c1c070b323e216040511-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lLhFzQ8.png", TLC HD
-http://10.99.99.99:8082/TLC.HD/index.m3u8?token=f8580c683b671219021a0cb6575b8fa35248c96e-0bef7174621263d23714c58415a08aaa-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/TLC.HD/index.m3u8?token=759c8ab5fc1ee462ee702163294232953e55c11b-2927592e7453cf0e5a0d3b1e9cfcd9a5-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RvcRdrA.png", SONY PIX HD
-http://10.99.99.99:8082/SONY.PIX.HD/index.m3u8?token=4c58050f0a97d9153d81d00791e3c44c3d470632-9659aeed678bc4a661ddc010437a9fcf-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/SONY.PIX.HD/index.m3u8?token=b8fb7b6c16f54a95346ee48371a20bc44a4d75ce-9bd05643d7a768557fcf2e066bdfa820-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EF7UbuQ.png", STAR MOVIES HD
-http://10.99.99.99:8082/STAR.MOVIES.HD/index.m3u8?token=a7904642f2d64328adcdcd70d1090317be480076-f1a91b70ef61b8e810b7a4f79bd7c509-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/STAR.MOVIES.HD/index.m3u8?token=6b6441144dd440990f05453d8e01320b1827f5d9-7ec8d57a5465daa5b3f9334c9d6a45c2-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aedZKYH.png", STAR MOVIES SELECT HD
-http://10.99.99.99:8082/STAR.MOVIES.SEL.HD/index.m3u8?token=9d02e39bcc92f05524afa2f3e3118760fe6bdea5-5b5d112d152c66090dee5b36ef1e415f-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/STAR.MOVIES.SEL.HD/index.m3u8?token=f2e31dc0e15f5cd617567f0ed7173a85bd2b2919-0a4b6cf7c9e40f5e572024e825b75f85-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G3MEnP7.png", AXN HD
-http://10.99.99.99:8082/AXN.HD/index.m3u8?token=f79793fdfc698cb92520b4cdf4d963c57eed4499-ec71e4b1c21ab679c471551eaa9bfd18-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/AXN.HD/index.m3u8?token=ecfd81bd22d834564343a663281629bc2934032a-ad37ad940e7511ecf6eaac3ff9b08822-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jq8Urnj.png", LOTUS TV
-http://10.99.99.99:8082/Lotus.TV.HD/index.m3u8?token=16e5621ba8c0c36b1ed593d0f9eb8ff51035fbdf-d21d967d300a87b8671d6a5b4ac19c1f-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/Lotus.TV.HD/index.m3u8?token=fb5b3e18232c730a12fe5b53fac74a64ddeb7069-f91be2b27dcea79f055d44219b9460b1-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6Oa3NbK.png", MN PLUS
-http://10.99.99.99:8082/MN.PLUS.HD/index.m3u8?token=cf4680c9555955a5413f23b64ed1adc08668d6f9-6a3730a399a2b4a34afc49851b06c1f1-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/MN.PLUS.HD/index.m3u8?token=7fc63aec38f9c00da614462e18c00f931f2d87c6-5d2c8289c61964b55d1a4068f6b7c49b-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O8h1zxA.png", MNX HD
-http://10.99.99.99:8082/MNX.HD/index.m3u8?token=470de76e7e5631cc19d137f20dd068f0b465f312-6accca8c1c942ae918d2fa6ef0ef8f93-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/MNX.HD/index.m3u8?token=ed844970575317bdecd3cd0f6e2d2553b4dbb692-1e10fba90db8d5b7970929423c8c11b2-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8p4y7fz.png", MOVIES NOW HD
-http://10.99.99.99:8082/MOVIES.NOW.HD/index.m3u8?token=b333b6f118d406483e9162a8ca8d8fe39b49250e-d082a702219869148b93a77e71df5427-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/MOVIES.NOW.HD/index.m3u8?token=60b767e6bf810c2f5d27e66aca9349f7e1b16825-b547878b30fa10ac8d399548a4edbed6-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DXZLYr1.png", ROMEDY NOW
-http://10.99.99.99:8082/ROMEDY.NOW/index.m3u8?token=5cd7f09c3cf5a65c9c9e925d713c4b13170280cf-870e04fb718907366e84be0f5e176fc3-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/ROMEDY.NOW/index.m3u8?token=16cf109c22ecba0c98494c0755d83b8d1814624c-7112c1d9418d3db8522f11d36dc13bf3-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iCyQuLM.png", ZEE CAFE HD
-http://10.99.99.99:8082/ZEE.CAFE.HD/index.m3u8?token=cd0a96af3495fe49ec728423de9f020ea3b1ca97-a2d84bd6215ab5d419dea186add23de8-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/ZEE.CAFE.HD/index.m3u8?token=a7caaac90880e8a329364dc494856e5e2b7509d4-75f9314ea54e8b29f0fd79c01dc7e103-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fbOv80U.png", HITZ MUSIC
 No link found
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wp7cWtF.png", Masti
 No link found
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8PMPQ3b.png", AND XPLORE
-http://10.99.99.99:8082/XPLOR.HD/index.m3u8?token=52fb24a9b0b3630ecf81653d1d1741bbb2c90ae4-d88a9c8cfcc22b707dd3b01ce09aa99f-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/XPLOR.HD/index.m3u8?token=7a97937a1acc09da1eb8902a9271ae961af431a9-083df13c6610636ae596cdd270a8d7cc-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1  tvg-logo="https://i.imgur.com/uApY2GQ.png", HUM TV
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1779294609:KeyName=prod_linear:Signature=kFrbT8AKH_Fa4DiVX9KF8DM41-Jc8xW30LsnEiAFsfg-c7Q2_24fe6Uz22L-4fvYQYfno3oXNwBmVDBweAouDA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1779341409:KeyName=prod_linear:Signature=qGILcn5d0CQgtHbuBFdBnSQTNTR3zcbGdXlfqxMtXLLIA0K2Xr0odyddlElqAVpI2Qnb5djOX2LzdR9m55UmDQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/hum_tv/playlist.m3u8
 
 No link found
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XpMOu0w.png", Hum Masala
-http://10.99.99.99:8082/HUM.MASALA.TV/index.m3u8?token=d66970db5a9ad56b51ee2ec976b0c7968eca37dc-de637aa65d615000867d8ee60466ad20-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/HUM.MASALA.TV/index.m3u8?token=d58aec7625a26f27faecbd94a63ba1160d828940-f251a4bf3ff8eb6f266fba32ca18a6b1-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CzhJZSD.png", Hum Sitarey
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1779294609:KeyName=prod_linear:Signature=kFrbT8AKH_Fa4DiVX9KF8DM41-Jc8xW30LsnEiAFsfg-c7Q2_24fe6Uz22L-4fvYQYfno3oXNwBmVDBweAouDA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1779341409:KeyName=prod_linear:Signature=qGILcn5d0CQgtHbuBFdBnSQTNTR3zcbGdXlfqxMtXLLIA0K2Xr0odyddlElqAVpI2Qnb5djOX2LzdR9m55UmDQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/hum_sitaray/playlist.m3u8
 
 No link found
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v2LKrJh.png", COLORS HD
-http://10.99.99.99:8082/COLORS.HD/index.m3u8?token=167b2f1999d45734d127d9911839bd7c4b9cc8c8-06aa91a233fd41b33ca91556d07e2366-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/COLORS.HD/index.m3u8?token=6fcc2d9d1b9ccab78fd8f238a4d2722d7d09d2e8-f2ee9732f32b7dd717353bcede1a3bb4-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IlcUYeZ.png", ZEE TV HD
-http://10.99.99.99:8082/ZEE.TV.HD/index.m3u8?token=80956740326e06e8a2cb7292af7ba85007e01676-efd731feda90dcbc095965e0c542aea7-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/ZEE.TV.HD/index.m3u8?token=acd28e2ad22c51b9e2199f8459511094c8ae1057-9cf2e5dbacb8ab4ce07335598fedb938-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZRyYpZ.png", SONY ENT HD
-http://10.99.99.99:8082/SONY.ENT.HD/index.m3u8?token=1ebb01f8a86d855cd32144decd565946075befe1-d2dfc4a7d87dde88e9e945689c8d07d1-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/SONY.ENT.HD/index.m3u8?token=1b53d9a76ff72fef45b8c2f3187ae83fb4c32d16-e3f276e45597a57999a5b4aa46f51f0e-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PVDs0pT.png", Sony SAB HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1779294609:KeyName=prod_linear:Signature=kFrbT8AKH_Fa4DiVX9KF8DM41-Jc8xW30LsnEiAFsfg-c7Q2_24fe6Uz22L-4fvYQYfno3oXNwBmVDBweAouDA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1779341409:KeyName=prod_linear:Signature=qGILcn5d0CQgtHbuBFdBnSQTNTR3zcbGdXlfqxMtXLLIA0K2Xr0odyddlElqAVpI2Qnb5djOX2LzdR9m55UmDQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonysab_hd/playlist.m3u8
 
 No link found
@@ -253,65 +253,65 @@ No link found
 
 No link found
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BGM1kA8.png", STAR PLUS HD
-http://10.99.99.99:8082/STAR.PLUS.HD/index.m3u8?token=19eac6d1770c6dc9bf1bf7b9fe97f5e1cd5070e6-14a20c96d5346c95ab2940c0301e702f-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/STAR.PLUS.HD/index.m3u8?token=8070318e788efc725d2e8fea207fc81667e149d6-12b21edad3b874b748ec323762fc2954-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QIRucm6.png", STAR BHARAT HD
-http://10.99.99.99:8082/STAR.BHARAT.HD/index.m3u8?token=64e21262e52499b77c715410e9e4de875a3bdb22-44a9703227a02183591ca18a91cd011e-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/STAR.BHARAT.HD/index.m3u8?token=607460c2aa1b4b62a98dcd368aa883b0200f65d3-9796140b1f56d56a07b35cac5239ef9f-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M2oAI2o.png", COLORS CINEPLEX HD
-http://10.99.99.99:8082/COLORS.CINEPLEX.HD/index.m3u8?token=34b7e7edd902cf0f35a210fad3442ed4cf4741b6-81d68fca37addd31a44665932b9d043d-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/COLORS.CINEPLEX.HD/index.m3u8?token=8a84c4e654977a624d3d0476a87757b7aaa4c647-b62ad20f528c021eab3d16b6ac6d70ca-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Bbrh7H.png", ZEE CINEMA HD
-http://10.99.99.99:8082/ZEE.CINEMA.HD/index.m3u8?token=4b81caccaca68a8f4244500fe76930a8c8088fe4-4d475d310e564e4a18da3425f3b4c325-1779173684-1779162884&remote=no_check_ip
+http://10.99.99.99:8082/ZEE.CINEMA.HD/index.m3u8?token=2958eccf73c13b322daf2dfdca0f1262e0939b10-394baea1e9ed76de35bb75254ee875a8-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/19HMyj8.png", AND PICTURS HD
-http://10.99.99.99:8082/ANT.PICTURS.HD/index.m3u8?token=410800769bad4b785d71240775f1cd426d748b21-5da49286eea1cd77d9abecbd896967e4-1779173685-1779162885&remote=no_check_ip
+http://10.99.99.99:8082/ANT.PICTURS.HD/index.m3u8?token=0aaed77ba4cfc0f4425a6f4256fa3e9ff7c890db-b1fe827de0fdb1a1c62e05a2269b3935-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xdvETeL.png", STAR GOLD HD
-http://10.99.99.99:8082/STAR.GOLD.HD/index.m3u8?token=6e8cd3974031e3b906ab8641c21fb55aea08aa85-e643acd0436f85f9c9d3aa41e643b1bf-1779173685-1779162885&remote=no_check_ip
+http://10.99.99.99:8082/STAR.GOLD.HD/index.m3u8?token=0bd67f80d8b87ce83633d1b66e99d9ec28df6dc6-c8f03ae6cc9d74fc29e225ef3ce55505-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YiNGIVa.png", STAR GOLD 2 HD
 No link found
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8qfrwNT.png", STAR GOLD SELECT HD
-http://10.99.99.99:8082/STAR.GOLD.SEL.HD/index.m3u8?token=e13efb5f13e9fffde958181d2a0d15a91ac4991c-4a3dd0db93443d2880ea0b1e0bd76505-1779173685-1779162885&remote=no_check_ip
+http://10.99.99.99:8082/STAR.GOLD.SEL.HD/index.m3u8?token=0d9f1952303bd2cc6299945b017c9c93d28922df-cca81758611ac4e9c182b2b0ca8ae57e-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N9IMkAN.png", SONY MAX HD
-http://10.99.99.99:8082/SONY.MAX.HD/index.m3u8?token=ebeb755fbe8745310712b8e3a31381d7e91146f4-4822e488b9166cc77bd820ac1d89b75f-1779173685-1779162885&remote=no_check_ip
+http://10.99.99.99:8082/SONY.MAX.HD/index.m3u8?token=15fa24af7a29a16fa5d7429691f34c46676b7ba8-d65fbaa79ab1cc1eb35d7376e9b361be-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0oG3cx5.png", SONY MAX 1
-http://10.99.99.99:8082/AND.PRIVE.HD/index.m3u8?token=fcc35372485fb6b432d4ad9f42f97c493e3c2b29-22734921952a764f208557156594a2d5-1779173685-1779162885&remote=no_check_ip
+http://10.99.99.99:8082/AND.PRIVE.HD/index.m3u8?token=44979ee61de5899c15387b4f36ada7c89269cd39-b5859f9d18ea76c5c166edacdf99e5ff-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gY45ZvN.png", SONY MAX 2
-http://10.99.99.99:8082/AND.FLIX.HD/index.m3u8?token=172b22f6ef4316a5e897a2c74451f4cda51ae6b9-d8e1ff1518a501ebb5bee3f84043132c-1779173685-1779162885&remote=no_check_ip
+http://10.99.99.99:8082/AND.FLIX.HD/index.m3u8?token=3564b58168b12e4fc8ce396745b5a2c58b8a3659-4e7f441fcf0f57fb7365ed9741dee2cf-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SN2Y0RI.png", ZING
-http://10.99.99.99:8082/ZING.MUSIC/index.m3u8?token=4a664ed3613196b3829d56db3ca5d0771a641aa7-744e01d3e88de3251ec7d208f52d643a-1779173685-1779162885&remote=no_check_ip
+http://10.99.99.99:8082/ZING.MUSIC/index.m3u8?token=2d5d9af3c2073bea6dccbf8fc89896058b4fd594-68bcc38842463d5a84ebefa2b95a7c0a-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6M5jbRh.png", ZOOM
-http://10.99.99.99:8082/ZOOM.MUSIC/index.m3u8?token=299541a4f39449e10389a5fe34e4768875c1f2bf-6d720be44de8c3f47690d651dc7c6f7a-1779173685-1779162885&remote=no_check_ip
+http://10.99.99.99:8082/ZOOM.MUSIC/index.m3u8?token=6fc1065fadb1751d289b9f6d38a185b36e4f7411-8749d8afa6bbde72f7663e7fc2fc5d91-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bs9JgzG.png", MADANI TV HD
-http://10.99.99.99:8082/MADANI.TV.HD/index.m3u8?token=fc66da25b9fdeb305be57368bf3129bcca7f4dd2-27fccb8617c3eefbf45177a68ddd0389-1779173685-1779162885&remote=no_check_ip
+http://10.99.99.99:8082/MADANI.TV.HD/index.m3u8?token=7305a61afaf8ad4dd851b5bc45e9df4876a5a22b-e2f4e69ba6407feb68524258ceb5f97f-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RAZykSm.png", PEACE TV BANGLA
-http://10.99.99.99:8082/PEACE.TV.BANGLA.HD/index.m3u8?token=a965a306ae0517cafe65c3f69e9944755ef43949-731553c55c97a731558e913902e2394e-1779173685-1779162885&remote=no_check_ip
+http://10.99.99.99:8082/PEACE.TV.BANGLA.HD/index.m3u8?token=3312e2403f2e283e067f6faf008d88937052ff02-359a454009d916c061094f82b0092666-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kZd8QGd.jpeg", T SPORTS
-http://10.99.99.99:8082/T-SPORTS-HD/index.m3u8?token=f89d3cfc0583dc9f74094dbd38d9572838e3e2b4-a615e1f32a5b84e004f86f3fb5e43a56-1779173685-1779162885&remote=no_check_ip
+http://10.99.99.99:8082/T-SPORTS-HD/index.m3u8?token=a29e21f98d635403460b2e6be8250e21bbf8e363-c6d4c174535d90d8669a82627abae054-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OfUWnCM.png", PTV SPORTS HD
-http://10.99.99.99:8082/PTV-SPORTS-HD/index.m3u8?token=a397c15c095aff4f2f03ad1ca762104de5f45f80-a2bf91c0497662b33382a993f9dfd8e9-1779173685-1779162885&remote=no_check_ip
+http://10.99.99.99:8082/PTV-SPORTS-HD/index.m3u8?token=f7f68a1ea2e61b04a48c472d5722ba1001addd63-73dfdce0b98605da09cc27ae94289202-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tXOopY9.png", STAR SPORTS 1 HD
-http://10.99.99.99:8082/STAR.SPORTS1.HD/index.m3u8?token=9fa89464a4f742c815a23ba83685be902b20d8b1-4ed1143c941d993f79f5a9f6f17da7f8-1779173685-1779162885&remote=no_check_ip
+http://10.99.99.99:8082/STAR.SPORTS1.HD/index.m3u8?token=3a8023b9aab253f7dc0e122c57b550fd4103439c-a985267a5b62b7ea7f721da23619fcc3-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X6K4dkj.png", STAR SPORTS 2 HD
-http://10.99.99.99:8082/STAR.SPORTS2.HD/index.m3u8?token=8c6ce015b32d5d37a5bef80bafae7547e8447052-044fa44b300db797dc5439fbcf62a424-1779173685-1779162885&remote=no_check_ip
+http://10.99.99.99:8082/STAR.SPORTS2.HD/index.m3u8?token=8e357c1860ae578de58f0736f9934c50206a2832-c9374b7388034ec36da85f19695d72ac-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0KcYHhy.png", STAR SPORTS 3
-http://10.99.99.99:8082/STAR-SPORTS.3/index.m3u8?token=98d4fe5f6534a5a31abc8ad92c82a5741ada9a9d-bacd8ea189c0f0938daddd7e2dd7e230-1779173685-1779162885&remote=no_check_ip
+http://10.99.99.99:8082/STAR-SPORTS.3/index.m3u8?token=2274d52fd827fb4a4b2826eef2c5db1c3c7802f0-215c479faf6e2520ab51b5cee34a216f-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lm0gnq1.png", STAR SPORTS SELECT 1 HD
-http://10.99.99.99:8082/STAR.SPORTS-SEL1.HD/index.m3u8?token=211504bbee327982fc0f5b26312afc5fe94c7647-5a7c1755c0af87f6e7c399f2f576b941-1779173685-1779162885&remote=no_check_ip
+http://10.99.99.99:8082/STAR.SPORTS-SEL1.HD/index.m3u8?token=bd36dc339a6117ae23e0352ab09bebfa7b7d7703-e5518f83a76e9141aed9ef19facdc039-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UFZLdnj.png", STAR SPORTS SELECT 2 HD
-http://10.99.99.99:8082/STAR.SPORTS.SEL.2.HD/index.m3u8?token=acc1f6c81ed08c920772a3b689cc00877a81fae0-eef00a88e8c8566eb9f854379b774a2a-1779173685-1779162885&remote=no_check_ip
+http://10.99.99.99:8082/STAR.SPORTS.SEL.2.HD/index.m3u8?token=3d62b6814c55109a93e7c43477e5811cfb3f00aa-d08023865f3b9e4f6212c78a7b4ebac8-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fg5Thnf.png", A SPORTS HD
-http://10.99.99.99:8082/A.SPORTS.HD/index.m3u8?token=2d1cc119d2a82364255e9722a35e895612c3cfcb-fa0034a9bc48148fd4b5066d117cabea-1779173685-1779162885&remote=no_check_ip
+http://10.99.99.99:8082/A.SPORTS.HD/index.m3u8?token=2432d93268e9790305ce1d8c5b73a124949c0968-4776416a4308f6269699371d862ef07e-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FhdNdmf.png", EUROSPORTS HD
-http://10.99.99.99:8082/EUROSPORTS.HD/index.m3u8?token=d2587b9762b2f0370c9000d6746edf07d29681a5-2e9b2830d21b66616a029f1376c05f24-1779173685-1779162885&remote=no_check_ip
+http://10.99.99.99:8082/EUROSPORTS.HD/index.m3u8?token=2ca435008911ac795d65c34e32865c76911bb0a5-8c46bf352df2cae6bd117d5b062369ef-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tfsQfYw.png", FAST SPORTS HD
-http://10.99.99.99:8082/FAST.SPORTS.HD/index.m3u8?token=aab4138a9eaf07bc0d13db2e158101d86194920d-e7eefcbe486a3a81a17935e95b46a9b8-1779173685-1779162885&remote=no_check_ip
+http://10.99.99.99:8082/FAST.SPORTS.HD/index.m3u8?token=3dcf8d15bfb99aa4b3424606ca0fd20f6c54a0cd-f141d0f33352edf2571b9a5aacd3c146-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yQ9nnSg.png", SONY SPORTS 1 HD
-http://10.99.99.99:8082/SONY.SPORTS.1HD/index.m3u8?token=96866a3d24cb7fc2cde235089c669f6784390f14-e8c2239b6901e400e45f22a0dafb332a-1779173685-1779162885&remote=no_check_ip
+http://10.99.99.99:8082/SONY.SPORTS.1HD/index.m3u8?token=f6619158089159f0c4437c3bfab05e2d794c09d5-c5d2876f112f12e7c9dc885673876381-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aGcZmL3.png", SONY SPORTS 2 HD
-http://10.99.99.99:8082/SONY.SPORTS2.HD/index.m3u8?token=f0078ddb3a5a4cca4dc5f7c94decb93ddd25aea1-a220a0d2c2c5f66b43f3696b83fda442-1779173685-1779162885&remote=no_check_ip
+http://10.99.99.99:8082/SONY.SPORTS2.HD/index.m3u8?token=7ccbd62f534462de57a0312c3b450bfb7394615d-0a1358f8ccbba8e6cdd134d202d07059-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4R1CkcA.png", SONY SPORTS 3
-http://10.99.99.99:8082/SONY.SPORTS.3/index.m3u8?token=d9b69d84e8691c1c824482cedb48f3849fa03ce3-7db72f0d63884bff16dcbdba11459444-1779173685-1779162885&remote=no_check_ip
+http://10.99.99.99:8082/SONY.SPORTS.3/index.m3u8?token=b73becbc3bc145dab4361ffbe1393f749603043d-2b03b0a0d17e871b0ab39cd67d73db0c-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qUXO5a7.png", SONY SPORTS 4
-http://10.99.99.99:8082/SONY.SPORTS.4/index.m3u8?token=d7b2a26bf1ebb352c661747a1ba2ed606a4434f5-2ce994dc8203140f025777f06f7d51e3-1779173685-1779162885&remote=no_check_ip
+http://10.99.99.99:8082/SONY.SPORTS.4/index.m3u8?token=b1db730ca3cd098a9ad09cdba66b6a8340c32e86-94d2472da6471100510273da88e57b17-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E6RkoAP.png", SONY SPORTS 5 HD
-http://10.99.99.99:8082/SONY-SPORTS.5HD/index.m3u8?token=b91a9ea1b8198e475b422c9d19d777298aa47c1c-c036a8d00197a049ce7bf3675a127d1b-1779173685-1779162885&remote=no_check_ip
+http://10.99.99.99:8082/SONY-SPORTS.5HD/index.m3u8?token=6f0a533ae2778f4df5333c2467711ba4d1508be3-7871c121a4a7ab70e74c426c7066212b-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NVwAzPy.png", SSC SPORTS 1
 No link found
 #EXTINF:-1tvg-logo="https://i.imgur.com/JeRCTsQ.png" , SSC SPORTS 5 HD
@@ -331,6 +331,6 @@ No link found
 
 No link found
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w2TYGMd.png", AL JAZEERA HD
-http://10.99.99.99:8082/ALJAZEERA.HD/index.m3u8?token=21bdc0462474fcc466bda64eaa5ba12df3b4a6b6-e1e365dbf1817d7ed920bfee44df07a3-1779173685-1779162885&remote=no_check_ip
+http://10.99.99.99:8082/ALJAZEERA.HD/index.m3u8?token=93cc43a1c922719c59d9551374b2a055a0077c4a-f51f39c52df06c743b60a7f90fa68cd6-1779180885-1779170085&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://i.imgur.com/On7ko5R.png", GEO NEWS HD
-http://10.99.99.99:8082/GEO.NEWS.HD/index.m3u8?token=4bad522ce31bfb8cf8a15d7e545090e880a300a7-b7c375e71111351a1ca624251b63d7a3-1779173685-1779162885&remote=no_check_ip
+http://10.99.99.99:8082/GEO.NEWS.HD/index.m3u8?token=67c2d88dc8c1ac00f37dcd188751659c0a1a288f-15e0d7499affc6e9bca6e9f92cc5d4b9-1779180885-1779170085&remote=no_check_ip
